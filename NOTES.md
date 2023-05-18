@@ -26,6 +26,11 @@ DOMAIN:
 
 Pomodoro 1: 
 - Create project and make it run
-- Create a test: "should return "Nothing" if a list is empty"
+- Create a test: 'should return "Nothing" if a list is empty'
+- Make it fail
+- Make prod code
+
+Pomodoro 2: 
+- Create a test: 'should return "Like" if button is 0'
 - Make it fail
 - Make prod code
